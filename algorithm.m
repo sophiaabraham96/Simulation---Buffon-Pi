@@ -148,6 +148,6 @@ fprintf('The relative true error and absolute relative true error are %g and %g\
  disp(k)
  
  
- %Set domain and range **put at bottom or won’t stay sets domain and range**
+ %Set domain and range **put at bottom or wonâ€™t stay sets domain and range**
  xlim([0,L]);
  ylim([0,L]);
